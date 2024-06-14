@@ -1,16 +1,15 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**sobral152006/sobral152006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Gabriel Sobral
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Ultilizo esse epaço para munha organização e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📫
+
+- 00001117561379sp@al.educacao.sp.gov.br
+- @bielsobral_vk
+
+
+![](https://media1.tenor.com/m/-AAA-k6jEFkAAAAd/bluepen.gif)
